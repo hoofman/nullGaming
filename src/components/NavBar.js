@@ -10,10 +10,10 @@ const NavBar = React.createClass({
           </div>
           <div className='collapse navbar-collapse navbar-center' id='bs-example-navbar-collapse-1'>
             <ul className='nav navbar-nav'>
-              <li><a href='#'>Sport</a></li>
-              <li><a href='#'>Casino</a></li>
-              <li><a href='#'>Bingo</a></li>
-              <li><a href='#'>Poker</a></li>
+              <li><a href='#'>World Cup</a></li>
+              <li><a href='#'>Premier League</a></li>
+              <li><a href='#'>Champions League</a></li>
+              <li><a href='#'>Europa League</a></li>
             </ul>
             <ul className='nav navbar-nav navbar-right'>
               <li><form className='navbar-form'>

@@ -8,4 +8,4 @@ npm install
 
 npm run dev
 
-runs gaming frontend on port 8000
+runs gaming frontend on port 8080
