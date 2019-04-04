@@ -1,0 +1,23 @@
+body {
+  background-color: #96d38d;
+}
+
+#betBoard {
+  background-image: url('/images/horse_racing.jpg');
+}
+
+#betBoardTitle {
+  text-align: center;
+  font-family: Helvetica;
+  color: black;
+}
+
+#betSlip {
+  background-image: url('/images/football.jpg');
+}
+
+#myBets {
+  color: black;
+  text-align: center;
+  background-color: white;
+}
