@@ -3,7 +3,8 @@ body {
 }
 
 #betBoard {
-  background-image: url('/images/horse_racing.jpg');
+
+    background-color: #c0c0c0;
 }
 
 #betBoardTitle {
@@ -13,7 +14,8 @@ body {
 }
 
 #betSlip {
-  background-image: url('/images/football.jpg');
+
+    background-color: #c0c0c0;
 }
 
 #myBets {
